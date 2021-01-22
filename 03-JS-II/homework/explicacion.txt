@@ -1,0 +1,11 @@
+For: La palabra For nos va a indicar que estamos en presencia de un bucle o ciclo. ¿Cómo funciona? Primero tenemos que declarar una variable,
+dentro de ella declaramos una expresión y por último la vamos a incrementar para que el bucle finalice.
+
+Operadores lógicos:
+1) &&= Significa "Y" o "AND". Supongamos que tenemos dos expresiones, el && va a evaluarlas y va a devolver verdadero(true)
+solo si las dos expresiones lo son. 
+2) ||= Significa "O" u "OR". Al igual que en el ejemplo anterior tenemos dos expresiones, este operador va a determinar
+si una de estas es verdadera (true). Devolverá verdadero si una de las dos es true y va a devolver falso si ambas lo 
+son.
+3) != Significa "NO" o "NOT". Nos sirve para negar una expresión, siempre nos va a devolver lo contrario a lo declarado
+en esa expresión. 
