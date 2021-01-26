@@ -1,0 +1,9 @@
+1) Objetos: Un objeto es un contenedor de datos, dentro de éste podemos colocar muchos datos con respecto
+a una sola cosa. Lo usamos a través de llaves {}.
+2)Propiedades: Los objetos como bien dijimos anteriormente contienen datos que podemos llamarlos propiedades,
+una propiedad es la asociación entre un valor y un nombre.
+3)Métodos: Son funciones guardadas dentro de un objeto. Cuando estemos trabajando con objetos y tengamos que 
+usar funciones las vamos a llamar métodos.
+4)Bucle for in: Con la instrucción for in vamos a iterar todas las propiedades que contenga un objeto.
+5)Notación de puntos vs notación de corchetes: Son dos formas para poder acceder a los distintos 
+valores que contiene un objeto. 
